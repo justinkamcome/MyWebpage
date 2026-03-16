@@ -39,6 +39,13 @@ export default function App() {
     ]
   };
 
+  const navigation = [
+    { name: 'About', icon: User },
+    { name: 'Experience', icon: Briefcase },
+    { name: 'Projects', icon: Map },
+    { name: 'Hobbies', icon: Trophy },
+  ];
+
   const hobbiesData = [
     { id: 'swim', image: '/Swim.jpg', title: 'Swimming', desc: 'Competing with my NUS College swim teammates in the Inter College Games where we clinched Gold' },
     { id: 'basketball', image: '/Basketball.jpg', title: 'Basketball', desc: 'Basketball team where we clinched Inter College Games Silver' },
