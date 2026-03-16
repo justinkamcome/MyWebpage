@@ -35,9 +35,9 @@ export default function App() {
         desc: "Pioneering EUDR reporting automation for sustainable supply chains and developing geospatial workflows for deforestation-free compliance.",
         longDesc: "Built an automated process to trace supplier sourcing regions and identify deforestation risk. Developed geospatial workflows that converted raw supply chain data into actionable maps and dashboards for sustainability reporting.",
         images: [
-          "https://justin3695147.github.io/MyWebpage/systemearth-1.jpg",
-          "https://justin3695147.github.io/MyWebpage/systemearth-2.jpg",
-          "https://justin3695147.github.io/MyWebpage/systemearth-3.jpg"
+          "https://justin3695147.github.io/MyWebpage/systemearth1.jpg",
+          "https://justin3695147.github.io/MyWebpage/systemearth2.jpg",
+          "https://justin3695147.github.io/MyWebpage/systemearth3.jpg"
         ]
       },
       { 
@@ -48,9 +48,8 @@ export default function App() {
         desc: "Conducted GHG Inventory audits and prepared sustainability reports aligned with GRI, ISSB S1, S2 frameworks.",
         longDesc: "Led data collection and validation for Scope 1 & 2 emissions. Produced reporting templates and gap analyses to align client disclosures with ISSB and GRI standards.",
         images: [
-          "https://justin3695147.github.io/MyWebpage/tembusu-1.jpg",
-          "https://justin3695147.github.io/MyWebpage/tembusu-2.jpg",
-          "https://justin3695147.github.io/MyWebpage/tembusu-3.jpg"
+          "https://justin3695147.github.io/MyWebpage/Tembusu1.jpg",
+          "https://justin3695147.github.io/MyWebpage/Tembusu2.jpg"
         ]
       },
       { 
@@ -61,9 +60,9 @@ export default function App() {
         desc: "Assisted in research initiatives focused on sustainable seafood markets and community-based fishery data collection.",
         longDesc: "Supported field surveys and data analysis for small-scale fisheries. Helped build community dashboards that visualised catch patterns and sustainability indicators.",
         images: [
-          "https://justin3695147.github.io/MyWebpage/pasarfish-1.jpg",
-          "https://justin3695147.github.io/MyWebpage/pasarfish-2.jpg",
-          "https://justin3695147.github.io/MyWebpage/pasarfish-3.jpg"
+          "https://justin3695147.github.io/MyWebpage/Pasarfish1.jpg",
+          "https://justin3695147.github.io/MyWebpage/Pasarfish2.jpg",
+          "https://justin3695147.github.io/MyWebpage/Pasarfish3.jpg"
         ]
       },
     ],
@@ -76,9 +75,9 @@ export default function App() {
         desc: "Engaged in cross-cultural exchange and advanced sustainability coursework in the heart of the Sonoran Desert.",
         longDesc: "Completed advanced sustainability modules and collaborated on transdisciplinary urban resilience projects with global peers.",
         images: [
-          "https://justin3695147.github.io/MyWebpage/asu-1.jpg",
-          "https://justin3695147.github.io/MyWebpage/asu-2.jpg",
-          "https://justin3695147.github.io/MyWebpage/asu-3.jpg"
+          "https://justin3695147.github.io/MyWebpage/ASU1.jpg",
+          "https://justin3695147.github.io/MyWebpage/ASU2.jpg",
+          "https://justin3695147.github.io/MyWebpage/ASU3.jpg"
         ]
       },
       { 
@@ -89,9 +88,8 @@ export default function App() {
         desc: "Created ecotourism initiatives for local farmers to develop new revenue streams and promote coastal conservation.",
         longDesc: "Designed and rolled out oyster farmer ecotours, trained stakeholders in sustainable aquaculture, and measured community income impacts.",
         images: [
-          "https://justin3695147.github.io/MyWebpage/thailand-1.jpg",
-          "https://justin3695147.github.io/MyWebpage/thailand-2.jpg",
-          "https://justin3695147.github.io/MyWebpage/thailand-3.jpg"
+          "https://justin3695147.github.io/MyWebpage/iEX1.jpg",
+          "https://justin3695147.github.io/MyWebpage/iEX2.jpg"
         ]
       },
       { 
@@ -102,9 +100,9 @@ export default function App() {
         desc: "Sustainability Summer Camp focusing on regional urban resilience and Southeast Asian environmental challenges.",
         longDesc: "Collaborated on urban resilience workshops, contributed to regional research briefs, and explored solutions for climate-vulnerable cities.",
         images: [
-          "https://justin3695147.github.io/MyWebpage/vnu-1.jpg",
-          "https://justin3695147.github.io/MyWebpage/vnu-2.jpg",
-          "https://justin3695147.github.io/MyWebpage/vnu-3.jpg"
+          "https://justin3695147.github.io/MyWebpage/AUN1.jpg",
+          "https://justin3695147.github.io/MyWebpage/AUN2.jpg",
+          "https://justin3695147.github.io/MyWebpage/AUN3.jpg"
         ]
       },
       { 
@@ -115,9 +113,9 @@ export default function App() {
         desc: "Immersive study of marine NGOs and coastal livelihoods, serving as the foundation for the award-winning Octopus management project.",
         longDesc: "Conducted field interviews, mapped coastal user groups, and produced recommendations used in the Octopus data collection project.",
         images: [
-          "https://justin3695147.github.io/MyWebpage/bali-1.jpg",
-          "https://justin3695147.github.io/MyWebpage/bali-2.jpg",
-          "https://justin3695147.github.io/MyWebpage/bali-3.jpg"
+          "https://justin3695147.github.io/MyWebpage/GEX1.jpg",
+          "https://justin3695147.github.io/MyWebpage/GEX2.jpg",
+          "https://justin3695147.github.io/MyWebpage/GEX3.jpg"
         ]
       },
     ]
